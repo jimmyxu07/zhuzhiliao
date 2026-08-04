@@ -44,21 +44,21 @@
 
   // ---- Fake Leaderboard ----
   const LEADERBOARD = [
-    { name: '风之子', score: 38 },
-    { name: '竹编大师', score: 35 },
-    { name: '闪电手', score: 32 },
-    { name: '哇声一片', score: 30 },
-    { name: '天下第一', score: 28 },
-    { name: '快手阿花', score: 26 },
-    { name: '知了知了', score: 24 },
-    { name: '速度之王', score: 22 },
-    { name: '拉动人生', score: 20 },
-    { name: '余音绕梁', score: 18 },
-    { name: '竹影清风', score: 16 },
-    { name: '遥遥领先', score: 14 },
-    { name: '十万个哇', score: 12 },
-    { name: '手速渣渣', score: 8 },
-    { name: '佛系玩家', score: 4 }
+    { name: '手速天花板', score: 14 },
+    { name: '竹编大师', score: 12 },
+    { name: '闪电手', score: 11 },
+    { name: '哇声一片', score: 10 },
+    { name: '天下第一', score: 9 },
+    { name: '快手阿花', score: 8 },
+    { name: '知了知了', score: 7 },
+    { name: '速度之王', score: 6 },
+    { name: '拉动人生', score: 6 },
+    { name: '余音绕梁', score: 5 },
+    { name: '竹影清风', score: 5 },
+    { name: '遥遥领先', score: 4 },
+    { name: '十万个哇', score: 3 },
+    { name: '手速渣渣', score: 2 },
+    { name: '佛系玩家', score: 1 }
   ];
 
   // ---- Meme text pool ----
