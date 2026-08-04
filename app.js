@@ -451,6 +451,7 @@
     ctx.font = '12px -apple-system, sans-serif';
     ctx.fillStyle = 'rgba(245, 240, 225, 0.4)';
     ctx.fillText('zhuzhiliao.site · 竹知了在线玩', W / 2, 370);
+
   }
 
   // Download score card
